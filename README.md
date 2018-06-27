@@ -12,7 +12,7 @@ mongoose plugin to allow set referenced object id from instances.
 
 ## Install
 ```sh
-$ npm install --save mongoose-autoset
+$ npm install --save mongoose mongoose-autoset
 ```
 
 ## Usage
