@@ -1,10 +1,12 @@
-# mongoose-autoset
+# mongoose-autoset(DEPRECATED)
 
 [![Build Status](https://travis-ci.org/lykmapipo/mongoose-autoset.svg?branch=master)](https://travis-ci.org/lykmapipo/mongoose-autoset)
 [![Dependency Status](https://img.shields.io/david/lykmapipo/mongoose-autoset.svg?style=flat)](https://david-dm.org/lykmapipo/mongoose-autoset)
 [![npm version](https://badge.fury.io/js/mongoose-autoset.svg)](https://badge.fury.io/js/mongoose-autoset)
 
 mongoose plugin to allow set referenced object id from instances.
+
+*Deprecation Notice: mongoose now support this feature out of box*
 
 ## Requirements
 
